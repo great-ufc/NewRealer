@@ -25,6 +25,6 @@
    Also This feature is not generating profitable returns for the application and was causing overhead.  
    For Future version of app we should be add a service specifically for this function. 
 
-<b>Use Cases:</b> [view here](./Documentation/UseCases.md)
+<b>Use Cases:</b> [view here](./Documentation/UseCases.md) (Needs Update)
 
-<b>Functional Mockups:</b> [view here](./Documentation/FunctionalMockups.md)
+<b>Functional Mockups:</b> [view here](./Documentation/FunctionalMockups.md) (Old Version)
