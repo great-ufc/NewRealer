@@ -1,7 +1,7 @@
 <b>Functional Mockups and Activites Flow</b>
 
 <p align="center">
-<img src="./figures/MockupsFuncionais.png" width="80%" heigth="80%" >
+<img src="./figures/OldFunctionalMockups.png" width="80%" heigth="80%" >
 </p>
 
   
