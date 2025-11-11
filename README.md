@@ -5,9 +5,9 @@
 
 <b>Old Functional Requirements:</b>
 1. Login using Google Auth
-# 2. Collect accelerometer data from the user's cell phone and compare it with the dataset to recognize risk situations using a trainnig AI Model
-# 3. Alert on app screen using various features (text, vibration and flashlight) and send email to caregiver
-#  - Alarm features must be adapted according to battery level.
+2. Collect accelerometer data from the user's cell phone and compare it with the dataset to recognize risk situations using a trainnig AI Model
+3. Alert on app screen using various features (text, vibration and flashlight) and send email to caregiver
+      - Alarm features must be adapted according to battery level.
 4. Register caregiver
 5. Save logs
     - Save logs when registered activity occurs
@@ -16,6 +16,8 @@
 
 <b>New Functional Requirements:</b>
 1. Collect gyroscope data from the user's cell phone and integrate to acceleroemter data for compare it with the dataset to recognize risk situations using a trainnig AI Model
+2. Download Classification Graph
+3. Download Better AI Model
 
 <b>Functional Requirements Removed:</b>
 1. Register activity you want to register
