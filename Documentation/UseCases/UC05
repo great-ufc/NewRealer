@@ -1,0 +1,12 @@
+| Info| Value|
+| :--- | :--- |
+| ID | UC05 |
+| Title | Monitor Battery Level |
+| Requirement | FR02 |
+| Mockup | None |
+| Precondition | The user must be logged in and have provided access to use the device's hardware |
+| Actors | System |
+| Basic Flow | 1. Collect Device Battery Level Data <br> 2. Save in the battery level global variable  |
+| Alterantive Flow | None |
+| Exception | None |
+| Role | None |
