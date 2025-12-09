@@ -1,4 +1,4 @@
-Below is list of Application Requirements and Use Cases:
+Below is list of Application Functional Requirements and Use Cases:
 
 __FR01 - Login (only with google account)__
 
