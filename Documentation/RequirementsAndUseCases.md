@@ -54,10 +54,13 @@ __FR08 - Movement Pattern Maintenance__
 
 __FR09 - Log and Reports__
 
-* UC26: Save Logs When Risk Movement Pattern Occurs and What Alert Feature was Available at that Time
+* UC26: Save Logs When Risk Movement Pattern Occurs and What Alert Feature was Available at that Time (In Development)
 * UC27: View History of Registered Risk Situations (In Project Phase)
 * UC28: View History of Recorded Tracked Activities (In Project Phase)
 
+__FR10 - Profile__
+* UC29: Show User Profile
+  
 ___Legend:___
 * FR - Fuctional Requirement
 * UC - Use Case
