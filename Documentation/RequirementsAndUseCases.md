@@ -22,6 +22,8 @@ __FR03 - Data Analysis__
 __FR04 - Planning__
 
 * UC11: Plan actions (Implemented)
+* UC12: Download Optimized Classification Graph (Implemented)
+* UC13: Download Better Machine Learning Models (Implemented)
 
 __FR05 - Identify Moviment Pattern and Analyze Risk Situation (Execution)__
 
@@ -38,9 +40,9 @@ __FR06 - Perform Actions (Execution)__
 
 __FR07 - Caregiver Maintenance__
 
-* UC22: Register new caregiver (In Development)
-* UC23: Edit caregiver (In Development)
-* UC24: Remove caregiver (In Development)
+* UC22: Register New Caregiver (In Development)
+* UC23: Edit Caregiver (In Development)
+* UC24: Remove Caregiver (In Development)
 
 __FR08 - Movement Pattern Maintenance__
 
@@ -50,10 +52,11 @@ __FR08 - Movement Pattern Maintenance__
 * UC25: Unregister a Risk Movement Pattern (In Project Phase)
 * UC25: List Risk Movement Pattern Registered (In Project Phase)
 
-__FR09 - Reports__
+__FR09 - Log and Reports__
 
-* UC26: View history of Registered Risk Situations (In Project Phase)
-* UC27: View History of Recorded Tracked Activities (In Project Phase)
+* UC26: Save Logs When Risk Movement Pattern Occurs and What Alert Feature was Available at that Time
+* UC27: View History of Registered Risk Situations (In Project Phase)
+* UC28: View History of Recorded Tracked Activities (In Project Phase)
 
 ___Legend:___
 * FR - Fuctional Requirement
