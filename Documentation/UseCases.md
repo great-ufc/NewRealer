@@ -1,23 +1,30 @@
 Below is list of Application Use Cases:
 
-* [UC01: Login](./UseCases/UC01-Login.md)
-* [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md)
-* [UC03: Monitor Accelerometer Data](./UseCases/UC03.md)
-* UC04: Monitor Battery Data
-* UC05: Extract features from Accelerometer
-* UC06: Analyze Accelerometer features
-* UC07: Analyze Battery Context
-* UC08: Adaptation Rules Verification
-* UC09: Plan actions
-* UC10: Perform actions
-* UC11: Alert Risk Situation
-* UC12: Request Help
-* UC13: Create List of Activities in the Database
-* UC14: List caregivers
-* UC15: Register new caregiver
-* UC16: Remove caregiver
-* UC17: List tracked activities
-* UC18: Register the monitoring of an activity (Register an activity)
-* UC19: Remove tracking from an activity
-* UC20: View history of Registered Risk Situations
-* UC21: View History of Recorded Tracked Activities
+* [UC01: Login](./UseCases/UC01-Login.md) (Implemented)
+* [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md) (Implemented)
+* UC03: Collect device gyroscope sensor data (Implemented)
+* [UC04: Monitor Accelerometer and Gyroscope Data](./UseCases/UC03.md) (Implemented)
+* UC05: Monitor Battery Data (Implemented)
+* UC06: Extract features from Accelerometer and Gyroscope (Implemented)
+* UC07: Analyze Accelerometer and Gysroscope features (Implemented)
+* UC08: Collect Battery Context (Implemented)
+* UC09: Collect Sensor List Context (Implemented)
+* UC10: Adaptation Rules Verification (Implemented)
+* UC11: Plan actions (Implemented)
+* UC12: Perform Machine Learning Model Analysis (Implemented)
+* UC13: Perform Alert Risk Situation Analysis (Implemented)
+* UC14: Show Movement Tracked (Implemented)
+* UC15: Send Text Alert (Implemented)
+* UC16: Execute Vibration Alert (Implemented)
+* UC17: Execute Flashlight Alert (Implemented)
+* UC18: Request Help (Implemented)
+* UC19: Create List of Activities in the Database (In Development)
+* UC20: List caregivers (In Development)
+* UC21: Register new caregiver (In Development)
+* UC22: Remove caregiver (In Development)
+* UC23: List tracked activities (In Project Phase)
+* UC24: Register New Risk Movement Pattern (ex.: Bump or Fall) (In Project Phase)
+* UC25: Unregister a Risk Movement Pattern (In Project Phase)
+* UC25: List Risk Movement Pattern Registered (In Project Phase)
+* UC26: View history of Registered Risk Situations (In Project Phase)
+* UC27: View History of Recorded Tracked Activities (In Project Phase)
