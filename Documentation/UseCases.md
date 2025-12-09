@@ -1,6 +1,6 @@
 Below is list of Application Use Cases:
 
-__FR01 - Login__
+__FR01 - Login (only with google account)__
 
 * [UC01: Login](./UseCases/UC01-Login.md) (Implemented)
 
@@ -36,19 +36,13 @@ __FR06 - Perform Actions (Execution)__
 * UC17: Execute Flashlight Alert (Implemented)
 * UC18: Request Help (Implemented)
 
-__FR07 - User Maintenance__
-
-* UC19: Register new user (Implemented)
-* UC20: Edit user (Implemented)
-* UC21: Remove user (Implemented)
-
-__FR08 - Caregiver Maintenance__
+__FR07 - Caregiver Maintenance__
 
 * UC22: Register new caregiver (In Development)
 * UC23: Edit caregiver (In Development)
 * UC24: Remove caregiver (In Development)
 
-__FR09 - Movement Pattern Maintenance__
+__FR08 - Movement Pattern Maintenance__
 
 * UC25: Create List of Movement Patterns in the Database (Implemented)
 * UC23: List Tracked Movement Patterns (In Project Phase)
@@ -56,7 +50,7 @@ __FR09 - Movement Pattern Maintenance__
 * UC25: Unregister a Risk Movement Pattern (In Project Phase)
 * UC25: List Risk Movement Pattern Registered (In Project Phase)
 
-__FR10 - Reports__
+__FR09 - Reports__
 
 * UC26: View history of Registered Risk Situations (In Project Phase)
 * UC27: View History of Recorded Tracked Activities (In Project Phase)
