@@ -9,7 +9,7 @@ __FR02 - Data Collection and Monitoring from Sensors (Monitoring)__
 * [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md) (Implemented)
 * UC03: Collect device gyroscope sensor data (Implemented)
 * [UC04: Monitor Accelerometer and Gyroscope Data](./UseCases/UC04.md) (Implemented)
-* UC05: Monitor Battery Data (Implemented)
+* UC05: Monitor Battery Level (Implemented)
 
 __FR03 - Data Analysis__
 
