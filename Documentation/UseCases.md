@@ -7,9 +7,9 @@ __FR01 - Login (only with google account)__
 __FR02 - Data Collection and Monitoring from Sensors (Monitoring)__
 
 * [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md) (Implemented)
-* UC03: Collect device gyroscope sensor data (Implemented)
+* [UC03: Collect device gyroscope sensor data](./UseCases/UC03.md) (Implemented)
 * [UC04: Monitor Accelerometer and Gyroscope Data](./UseCases/UC04.md) (Implemented)
-* UC05: Monitor Battery Level (Implemented)
+* [UC05: Monitor Battery Level](./UseCases/UC05.md) (Implemented)
 
 __FR03 - Data Analysis__
 
