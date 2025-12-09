@@ -56,8 +56,12 @@ __FR09 - Movement Pattern Maintenance__
 * UC25: Unregister a Risk Movement Pattern (In Project Phase)
 * UC25: List Risk Movement Pattern Registered (In Project Phase)
 
+__FR10 - Reports__
+
+* UC26: View history of Registered Risk Situations (In Project Phase)
+* UC27: View History of Recorded Tracked Activities (In Project Phase)
+
 ___Legend:___
 * FR - Fuctional Requirement
 * UC - Use Case
-* UC26: View history of Registered Risk Situations (In Project Phase)
-* UC27: View History of Recorded Tracked Activities (In Project Phase)
+
