@@ -17,6 +17,7 @@
 1. Collect gyroscope data from the user's cell phone and integrate to acceleroemter data for compare it with the dataset to recognize risk situations using a trainnig AI Model
 2. Download Optimized Classification Graph
 3. Download Better Machine Learning Models
+4. Show User Profile
 
 <b>Requirements Removed:</b>
 1. Register activity you want to register
