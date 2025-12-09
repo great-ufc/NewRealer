@@ -20,7 +20,7 @@
 
 <b>Requirements Removed:</b>
 1. Register activity you want to register
-   Motivation: We observe taht generate data for register activity was not implemented correctly.
+   Motivation: We observe that generate data for register activity was not implemented correctly.
    Also This feature is not generating profitable returns for the application and was causing overhead.  
    For Future version of app we should be add a service specifically for this function. 
 
