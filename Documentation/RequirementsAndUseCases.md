@@ -2,14 +2,20 @@ Below is list of Application Functional Requirements and Use Cases:
 
 __FR01 - Login (only with google account)__
 
-* [UC01: Login](./UseCases/UC01-Login.md) (Implemented)
+ * UC01: Login (Implemented)
+<!-- * [UC01: Login](./UseCases/UC01-Login.md) (Implemented) -->
 
 __FR02 - Data Collection and Monitoring from Sensors (Monitoring)__
 
-* [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md) (Implemented)
+* UC02: Collect device accelerometer sensor data (Implemented)
+* UC03: Collect device gyroscope sensor data (Implemented)
+* UC04: Monitor Accelerometer and Gyroscope Data (Implemented)
+* UC05: Monitor Battery Level (Implemented)
+
+<!-- * [UC02: Collect device accelerometer sensor data](./UseCases/UC02.md) (Implemented)
 * [UC03: Collect device gyroscope sensor data](./UseCases/UC03.md) (Implemented)
 * [UC04: Monitor Accelerometer and Gyroscope Data](./UseCases/UC04.md) (Implemented)
-* [UC05: Monitor Battery Level](./UseCases/UC05.md) (Implemented)
+* [UC05: Monitor Battery Level](./UseCases/UC05.md) (Implemented) -->
 
 __FR03 - Data Analysis__
 
