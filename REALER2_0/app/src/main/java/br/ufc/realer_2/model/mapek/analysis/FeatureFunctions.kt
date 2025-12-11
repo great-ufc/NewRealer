@@ -2,6 +2,8 @@
 //------Feature Extraction Functions-----//
 package br.ufc.realer_2.model.mapek.analysis
 
+import org.apache.commons.math3.stat.descriptive.moment.Kurtosis
+import org.apache.commons.math3.stat.descriptive.moment.Skewness
 import java.util.*
 
 class FeatureFunctions {
